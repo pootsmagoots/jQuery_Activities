@@ -1,0 +1,36 @@
+body {
+  font-size: 1em;
+  font-family: "Roboto-Thin", sans-serif;
+}
+
+
+p:hover {
+  cursor: pointer;
+}
+
+
+.timestwo {
+  font-size: 5rem;
+}
+
+.colorful {
+  color: magenta;
+}
+
+.display {
+  display: none;
+}
+
+
+#box {
+  width: 20rem;
+  background-color: yellow;
+  height: 20rem;
+  border: 1px solid pink;
+  display: none;
+}
+
+.cool {
+  color: red;
+  font-size: 4rem;
+}
